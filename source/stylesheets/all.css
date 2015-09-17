@@ -62,11 +62,11 @@ pre {
 }
 
 .hero {
-  background: #4f3b5b;
-  background: -webkit-radial-gradient(ellipse at center, #4f3b5b 0%,#231733 100%);
-  background:    -moz-radial-gradient(ellipse at center, #4f3b5b 0%,#231733 100%);
-  background:     -ms-radial-gradient(ellipse at center, #4f3b5b 0%,#231733 100%);
-  background: radial-gradient(ellipse at center, #4f3b5b 0%,#231733 100%);
+  background: #6CBC36;
+  background: -webkit-radial-gradient(ellipse at center, #6CBC36 0%,#231733 100%);
+  background:    -moz-radial-gradient(ellipse at center, #6CBC36 0%,#231733 100%);
+  background:     -ms-radial-gradient(ellipse at center, #6CBC36 0%,#231733 100%);
+  background: radial-gradient(ellipse at center, #6CBC36 0%,#231733 100%);
   text-align: center;
   padding: 29px 0;
 }
